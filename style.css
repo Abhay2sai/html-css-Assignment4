@@ -1,0 +1,24 @@
+.profile{
+    margin:40px auto;
+    border:1px solid black;
+    border-radius: 14px;
+    position:relative;
+    width:400px;
+}
+.mountains{
+    width:100%;
+}
+.VK{
+    position:absolute;
+    border-radius: 50%;
+    border: 5px solid white;
+    left:70px;
+    bottom:100px;
+    width:250px;
+    
+}
+.content{
+    text-align: center;
+    top:300px;
+
+}
